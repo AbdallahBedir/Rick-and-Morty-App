@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The app contains 2 simple pages:
 
-1. characters page at `http://localhost:3000/`
-2. character details page at `http://localhost:3000/details/Annie`
+1. characters page at `/`
+2. character details page at `/details/:name`
 
 ## Available Scripts
 
