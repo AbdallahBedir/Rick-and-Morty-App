@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### How to use
+
+The app contains 2 simple pages:
+
+1. characters page at `http://localhost:3000/`
+2. character details page at `http://localhost:3000/details/Annie`
+
 ## Available Scripts
 
 In the project directory, you can run:
